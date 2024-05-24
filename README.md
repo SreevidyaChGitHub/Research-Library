@@ -23,12 +23,12 @@ momentum charts and other details of indices.<br/>
 
 <b>Contribution as a Team member</b><br/>
 
-- Analysing the requirements assigned and preparing low-level design(LLD) document..
-- Developing IndicesPriceService (Windows Service) and Indices Calculation Engine (Database
+- Analysed the requirements assigned and preparing low-level design(LLD) document..
+- Developed IndicesPriceService (Windows Service) and Indices Calculation Engine (Database
 tables design, Stored Procedures, User-defined functions) for Indices Module.
-- Developing PriceHistoryService (Windows Service) for RL Core Module
+- Developed PriceHistoryService (Windows Service) for RL Core Module
 - Coding using ASP.NET, C#, Java Script, XML and AJAX.
-- Working with SQL Server - databases, tables, views, stored procedures, user-defined functions etc.
-- Preparing Cookbook (Collection of scripts) for Production/Stage releases.
-- Synchronizing RL Databases (Dev/Integration/Stage) from RL Production Database using Red Gate Tools (SQL Compare/SQL Data Compare) and SSIS packages.
+- Worked with SQL Server - databases, tables, views, stored procedures, user-defined functions etc.
+- Prepared Cookbook (Collection of scripts) for Production/Stage releases.
+- Involved in Synchronizing the RL Databases (Dev/Integration/Stage) from RL Production Database using Red Gate Tools (SQL Compare/SQL Data Compare) and SSIS packages.
 - Unit testing, Integration testing and Bug fixing.
